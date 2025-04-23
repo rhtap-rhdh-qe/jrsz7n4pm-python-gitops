@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jrsz7n4pm-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jrsz7n4pm-python
